@@ -113,9 +113,13 @@ span {
   border-radius: 50%;
   top: 3rem;
   width: 20vw;
-  box-shadow: 0 0 15px aqua, 0 0 40px aqua;
+  box-shadow: 0 0 15px aqua, 0 0 10px aqua;
   cursor: pointer;
   transition: 0.4s ease;
+  width: 200px;
+  height: 200px;
+  margin-top: 40px;
+
 }
 
 .home-content h1 {
@@ -125,15 +129,18 @@ span {
 }
 
 .home-content h3 {
-  font-size: 6rem;
+  font-size: 3rem;
   font-weight: 700;
   margin-top: 1.5rem;
   line-height: 1;
+ 
 }
 
 .home-content p {
   font-size: 16px;
+
 }
+
 
 .social-icons a {
   display: inline-flex;
