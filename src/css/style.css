@@ -569,6 +569,11 @@ span {
     display: none;
 
   }
+
+  .navbar{
+    display: block;
+  }
+  nav
 }
 
 
