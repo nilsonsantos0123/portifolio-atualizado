@@ -585,13 +585,12 @@ span {
 
   .home{
     flex-direction: column;
-    background: red;
     margin: 5rem 4rem;
   }
   .home-content h3{
     font-size: 2rem;
     margin-top: 3rem;
-    background: red;
+
   }
   .home-content h1{
     font-size: 6rem;
@@ -607,7 +606,7 @@ span {
   }
   .skills{
     margin: 30px;
-    background: red;
+  
   }
 
   .projetos-container{
