@@ -564,16 +564,16 @@ span {
     right: 0;
     width: 50%;
     padding: 1rem 3%;
-    background: rgba(0, 0, 0, 0.9);
+    background: red;
     border-bottom-left-radius: 2rem;
-    border-left: 50px solid var(--main-color);
+    border-left: 2px solid var(--main-color);
     border-bottom: 2px solid var(--main-color);
     display: none;
     
 
   }
 
-  .navbar .active{
+  .navbar.active{
     display: block;
   }
   .navbar a{
@@ -596,7 +596,7 @@ span {
     font-size: 6rem;
     margin-top: 3rem;
   }
-  .home-conttent p{
+  .home-content p{
     max-width: 400px;
     margin: 0 auto;
   }
@@ -605,7 +605,7 @@ span {
     margin-top: 3rem;
   }
   .skills{
-    margin: 30px;
+    margin: 16px;
   
   }
 
